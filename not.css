@@ -1,0 +1,11 @@
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+
+.titulo {
+	grid-column: 2;
+	text-align: center;
+}
