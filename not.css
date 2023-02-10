@@ -1,11 +1,19 @@
 
-.grid {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-gap: 10px;
+#titulo {
+	background-color: aquamarine;
+	text-align: center;
 }
 
-.titulo {
-	grid-column: 2;
-	text-align: center;
+p {
+	text-align: justify;
+}
+
+h5 {
+	padding-top: 15%;
+}
+
+.img2 {
+	float: left;
+	padding-top: 8%;
+	width:50%;
 }
